@@ -66,4 +66,4 @@ version de PHP : 8.2
 version de MariaDB : 11.5
 
 ## Auteur
-[Tom Chaumette](https://github.com/Enes6910)
+[Enes Saglam](https://github.com/Enes6910)
