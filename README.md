@@ -8,7 +8,7 @@ Ce projet est une application Symfony fonctionnant dans un environnement Docker.
 ## Démarrage
 ### Cloner le dépôt et entrer dans le répertoire du projet
 ```sh
-git clone https://github.com/El-Tome/tp_gestion_conges_status
+git clone https://github.com/Enes6910/SymfonySituPro
 cd tp_gestion_conges_status
 ```
 
